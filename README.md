@@ -6,6 +6,9 @@ I work with clean code, fast-loading websites, and smart tools that enhance prod
 🔗 Visit my live HTML editor and optimizer:  
 👉 [https://4html.net/1-913.html](https://4html.net/1-913.html)
 
+Looking for a tool to convert Word content into clean HTML?  
+Try this powerful [**Word to HTML**](https://4html.net) converter!
+
 ---
 
 ## What I Do
@@ -24,6 +27,12 @@ I work with clean code, fast-loading websites, and smart tools that enhance prod
 I believe in speed, clarity, and precision – both in code and communication.
 
 ---
+
+## Contact
+
+- 🌐 [Live Editor](https://4html.net/1-913.html)
+- 📧 Email: raimondas@example.com *(replace with your real email)*
+
 
 ## Contact
 
